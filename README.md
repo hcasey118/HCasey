@@ -1,7 +1,7 @@
-# HCasey
-Testing this readme file
+# Hunter Casey
+BSITC
 
-# Readme Test Pt. 2
+#Projects
 1. Project N/A
 2. Project N/A
 
