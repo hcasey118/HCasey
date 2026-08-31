@@ -6,3 +6,5 @@ BSITC
 2. Project N/A
 
  	`code example`
+
+# Testing VSCode Functionality
